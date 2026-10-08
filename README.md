@@ -1,3 +1,5 @@
+# Junior QA Engineer, Tallinn. Manual, API and automation testing.
+
 # QA_Portfolio
 
 ## Projects
