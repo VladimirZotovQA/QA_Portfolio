@@ -16,4 +16,4 @@ CI on GitHub Actions: formatting, linting and tests.
 Class hierarchy for bank contracts with unit tests (TypeScript, Jest).
 Covers inheritance, field storage, state methods and calculations.
 
-- Repository: ссылка на Bank-Contracts-jest
+- Repository: [ссылка на Bank-Contracts-jest](https://github.com/VladimirZotovQA/Bank-Contracts-jest)
